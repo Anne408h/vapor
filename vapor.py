@@ -178,7 +178,7 @@ if __name__ == '__main__':
         sys.exit(1)
 
     # Set some thresholds for user input
-    max_kmer = 30
+    max_kmer = 50
     min_kmer = 5
     max_thres = 1
     min_thres = 0
